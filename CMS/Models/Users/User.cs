@@ -8,5 +8,6 @@ namespace CMS.Models.Users
 {
     internal class User
     {
+        //hfyuftg
     }
 }
